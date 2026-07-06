@@ -1,0 +1,14 @@
+langgraph
+langchain-anthropic
+langchain-community
+chromadb
+mcp
+faker
+fastapi
+uvicorn
+pydantic
+pytest
+python-dotenv
+streamlit
+anthropic
+sentence-transformers
